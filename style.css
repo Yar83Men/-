@@ -1,0 +1,29 @@
+body {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(48, 48, 48);
+}
+h2 {
+    text-align: center;
+}
+.box {
+    width:400px;
+    padding:10px;
+    margin:0 auto;   
+}
+button {
+    width:100px;
+    height:30px;
+    color:white;
+    font-size: 18px;
+    border:none;
+    outline: none;
+    background-color: darkgreen;
+    padding:3px;
+    border-radius: 3px;
+    display: block;
+    margin:0 auto;
+}
+.out {
+    text-align: center;
+}
